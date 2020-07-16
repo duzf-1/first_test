@@ -1,8 +1,3 @@
-lalallalallalal
-kdkdjgl
-<<<<<<< Updated upstream
-快速极大的精力思考过  
-=======
 快速极大的精力思考过 
 jklgkgkljgljgjkljgdfjglkgj  
 现在，我就尝试操作reset，检验我的理解是否是正确的。
